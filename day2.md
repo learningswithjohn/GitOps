@@ -1,3 +1,9 @@
+Below is the architectural diagram of ArgoCD:
+
+<img width="1358" height="905" alt="image" src="https://github.com/user-attachments/assets/ed9f96fa-62c5-40f7-9b86-300003fa2b3b" />
+
+
+
 1. API Server (argocd-server)
 
 It is the component through which users and external tools interact with Argo CD (through UI/CLI)
